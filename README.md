@@ -1,2 +1,2 @@
-# cat-photo-downloader
-Cat photo downloader
+# Cat Photo Downloader
+## This is an cat photo downloader, simple.
